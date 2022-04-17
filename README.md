@@ -14,10 +14,11 @@ After creating grammar, the program reads the word that given by user and decide
 If it is, then program will print derivation and parse tree. Otherwise, it will print error message.
 
 ## Derivation
-![alt text](https://github.com/enes-sahinn/CFG-Parser/blob/main/derivation.PNG)
+![alt text](https://github.com/enes-sahinn/CFG-Parser/blob/master/derivation.PNG)
+
 
 ## Parse Tree
-![alt text](https://github.com/enes-sahinn/CFG-Parser/blob/main/parse_tree.PNG)
+![alt text](https://github.com/enes-sahinn/CFG-Parser/blob/master/parse_tree.PNG)
 
 ## Built With
 * Java
